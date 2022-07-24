@@ -1,4 +1,4 @@
-package com.employeemanagement.contoller;
+package com.employeemanagement.controller;
 
 import java.util.List;
 
